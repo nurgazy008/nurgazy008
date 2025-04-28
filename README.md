@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Nurgazy Zhangozy 👋  
+Junior Flutter Developer | Mobile App Enthusiast | Firebase Explorer
 
-<!--
-**nurgazy008/nurgazy008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Nurgazy, a passionate Flutter developer focused on building modern, efficient, and scalable mobile applications.  
+I love exploring cross-platform technologies and creating real-world solutions.
 
-Here are some ideas to get you started:
+🌱 **What I'm focusing on**  
+Currently deepening my skills in Flutter, Dart, and Firebase.  
+I am also learning about advanced mobile app techniques like animations, state management, and responsive design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Experience**  
+- Participant at ZhambylHub Hackathon  
+- Winner of KVN College Competition at JIHC
+
+📫 **How to reach me**  
+- [LinkedIn](https://www.linkedin.com/in/nurgazy-zhangozy-32b808362/)  
+- Email: nurgazy.zhangazy.08@bk.ru
+
+⚡ **Fun fact**  
+I enjoy hackathons, teamwork, and creating apps that help people!
+
+🤝 **Let's Connect**  
+Feel free to contact me if you want to collaborate on Flutter projects, internships, or just say hi!
