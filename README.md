@@ -1,33 +1,122 @@
-# Hi there, I'm Nurgazy Zhangozy 👋  
-Junior Flutter Developer | Mobile App Enthusiast | Firebase Explorer
+Hi there, I'm Nurgazy Zhangozy 👋
 
-Welcome to my GitHub profile! I'm Nurgazy, a passionate Flutter developer focused on building modern, efficient, and scalable mobile applications.  
-I love exploring cross-platform technologies and creating real-world solutions.
+Junior Flutter Developer | iOS Developer (UIKit + SwiftUI) Learner | Mobile App Enthusiast
 
-🌱 **What I'm focusing on**  
-Currently deepening my skills in Flutter, Dart, and Firebase.  
-I am also learning about advanced mobile app techniques like animations, state management, and responsive design.
+Welcome to my GitHub profile!
+I'm Nurgazy — a mobile developer passionate about building clean, scalable, and user-friendly applications using Flutter, UIKit, and SwiftUI.
+I love combining cross-platform development with native iOS skills to build modern and practical apps.
 
-💼 **Experience**  
-- Participant at ZhambylHub Hackathon  
-- Winner of KVN College Competition at JIHC
+🌱 What I'm Currently Learning
 
-🚀 **Pet Project: EventHub**  
-**EventHub** is a Flutter-based mobile application designed to help students discover and participate in college events.  
-Features include:  
-- Browsing upcoming college events  
-- Buying tickets directly in the app  
-- Filtering by event type and popularity  
-- Firebase authentication & Firestore integration
+Flutter & Dart (advanced)
 
-This is a growing project to practice clean architecture, BLoC state management, and Firebase features.
+Firebase: Auth, Firestore, Storage
 
-📫 **How to reach me**  
-- [LinkedIn](https://www.linkedin.com/in/nurgazy-zhangozy-32b808362/)  
-- Email: nurgazy.zhangazy.08@bk.ru
+iOS Development:
 
-⚡ **Fun fact**  
-I enjoy hackathons, teamwork, and creating apps that help people!
+UIKit (AutoLayout, MVVM, programmatic UI)
 
-🤝 **Let's Connect**  
-Feel free to contact me if you want to collaborate on Flutter projects, internships, or just say hi!
+SwiftUI (state management, layouts, animations)
+
+Networking: URLSession & Alamofire
+
+Local storage: CoreData
+
+Clean Architecture, animations & mobile best practices
+
+💼 Experience
+📱 Petres — Social Feed App (iOS, UIKit + MVVM + CoreData)
+
+A simplified social feed app built to practice real iOS engineering.
+
+Implemented:
+
+Feed loading via JSONPlaceholder API
+
+Offline mode using CoreData
+
+Pagination + pull-to-refresh
+
+Like system with local persistence
+
+Loading & interaction animations
+
+Networking with Alamofire, images via URLSession, caching with NSCache
+
+Architecture: MVVM (Network → ViewModel → CoreData → View)
+GitHub link will be added soon
+
+🍏 iOS SwiftUI Mini-Projects
+
+A collection of SwiftUI practice components and screens:
+
+Reusable views
+
+Smooth animations
+
+State management (State, Binding, ObservableObject)
+
+Basic MVVM in SwiftUI
+
+Modern, clean UI layouts
+
+Will be uploaded to GitHub soon
+
+🚀 EventHub — Flutter Application
+
+A mobile app built for college students to find, join, and buy tickets for events.
+
+Features:
+
+Browse upcoming events
+
+Ticket purchase inside the app
+
+Firebase Auth + Firestore
+
+Search & filtering
+
+BLoC state management
+
+Clean architecture applied
+
+🏢 Dormitory Applications Bot (Flask + Telegram API)
+
+Telegram bot used by 1500+ active users to automate dormitory requests.
+
+Features:
+
+Submit & track applications
+
+Automatic status updates
+
+Staff admin panel
+
+Backend on Flask
+
+Storage on SQLite/PostgreSQL
+
+Handles thousands of requests monthly
+
+🏆 Hackathons & Achievements
+
+Participant — ZhambylHub Hackathon
+
+Winner — KVN College Competition (JIHC)
+
+Active tech community member
+
+📫 How to Reach Me
+
+Email: nurgazy.zhangazy.08@bk.ru
+
+GitHub: You're already here 😊
+
+⚡ Fun Fact
+
+I enjoy hackathons, teamwork, and building apps that help real students.
+Developing in both Flutter and iOS (UIKit + SwiftUI) allows me to grow as a strong, flexible, multi-platform mobile engineer.
+
+🤝 Let’s Connect
+
+Open to internships, mobile roles, collaborations, and open-source contributions.
